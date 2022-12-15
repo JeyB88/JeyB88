@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeyB88
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Next.js and TypeScript
+- 🌱 I’m currently learning Kotlin and Kubernetes
 - 📫 How to reach me: jeyb88@gmail.com
 
 <!---
